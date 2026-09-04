@@ -7,7 +7,7 @@ However, we all live in different parts of the world, including North America, E
 
 It's important for me to know who is awake at a minute's notice, such as when I make last minute changes before a scheduled release. Going off of someone's online status on Discord is not reliable enough. Some may not have Discord open, while others may have set their status to Invisible.
 
-Also, tester gaming sessions have been more common lately. Before, members would ping all testers to see who would be down to play, which has annoyed a few testers who thought the ping was for something important.
+Also, tester gaming sessions have been more common lately. Currently, members usually ping all other testers to see who would be down to play, which has annoyed a few testers who think they're being pinged for something important.
 
 Both of these things have led me to creating EZ-TZ, a simple Discord bot that allows users to set their timezone, which allows others to get their local time and possible availability. While this bot doesn't indicate anyone's actual availability, it allows the team to be more mindful of everyone's local time instead of pinging someone in the middle of the night.
 
