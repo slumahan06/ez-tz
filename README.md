@@ -20,7 +20,7 @@ EZ-TZ contains the following features:
 
 ## Getting started
 
-To get this bot running, you will need to create your own application on the Discord Development Portal.
+To get this bot running, you will need to create your own application on the Discord Developer Portal.
 
 1. Create an application on the Discord Development Portal
 2. Copy your bot's token
